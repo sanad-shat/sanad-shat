@@ -1,12 +1,4 @@
-# Hi there, I'm Sanad 👋
-
-### 💻 Software Engineer | Front-end Developer
-
-Software Engineering and Artificial Intelligence passionate about technology, front-end development, and building modern digital solutions. Skilled in HTML, CSS, JavaScript, and Python, React.js, with experience working on academic and technical projects. Interested in continuous learning, problem-solving, and developing innovative software solutions.
-
-
-
-# Hi there 👋, I'm Walid
+# Hi there 👋, I'm Sanad 
 
 ## 🚀 About Me
 
@@ -41,14 +33,11 @@ Software Engineering and Artificial Intelligence student passionate about techno
 
 ## 📌 Featured Projects
 
-### 🚀 Sametrax Resource Management System
-A modern resource management platform designed to manage projects, employees, support services, and time tracking within organizations.
 
 ### 💹 Crypto Tracker
 A responsive cryptocurrency tracking application built with React, providing real-time market insights and analytics.
 
-### 🏢 Asset Management System
-A web-based asset management system developed using ASP.NET MVC and SQL Server.
+
 
 ---
 
@@ -68,7 +57,8 @@ A web-based asset management system developed using ASP.NET MVC and SQL Server.
 </a>
 </p>
 
-📧 Email: your-email@example.com
+📧 Email: ssht414@gmail.com
+
 
 ---
 
@@ -79,7 +69,3 @@ A web-based asset management system developed using ASP.NET MVC and SQL Server.
 ---
 
 ⭐ Thank you for visiting my profile!
-
----
-
-⭐ *Always learning, always building.*
