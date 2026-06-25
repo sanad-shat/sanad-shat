@@ -6,29 +6,79 @@ Software Engineering and Artificial Intelligence passionate about technology, fr
 
 
 
----
+# Hi there 👋, I'm Walid
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+Software Engineering and Artificial Intelligence student passionate about technology and modern software development. Proficient in HTML, CSS, JavaScript, Python, and React.js, with practical experience in developing academic and technical projects. Dedicated to continuous learning, problem-solving, and building innovative digital solutions that deliver meaningful impact.
 
----
-
-### 📊 GitHub Stats
-
-![Sanad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanad-shat&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanad-shat&layout=compact&theme=tokyonight)
+- 🎓 Software Engineering & Artificial Intelligence Student
+- 💻 Passionate about Front-End Development and Modern Web Technologies
+- 🌱 Currently learning and improving my skills in React, .NET, and Cloud Technologies
+- 🚀 Interested in AI, Web Development, and SaaS Solutions
+- 🔍 Always eager to learn new technologies and take on challenging projects
 
 ---
 
-### 📫 Connect with me
+## 🛠️ Skills & Technologies
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanad-m-a-shat-872b6b18b)
+### Front-End Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 Sametrax Resource Management System
+A modern resource management platform designed to manage projects, employees, support services, and time tracking within organizations.
+
+### 💹 Crypto Tracker
+A responsive cryptocurrency tracking application built with React, providing real-time market insights and analytics.
+
+### 🏢 Asset Management System
+A web-based asset management system developed using ASP.NET MVC and SQL Server.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+📧 Email: your-email@example.com
+
+---
+
+### 💡 Quote
+
+> "Continuous learning is the key to innovation and success."
+
+---
+
+⭐ Thank you for visiting my profile!
 
 ---
 
