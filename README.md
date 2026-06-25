@@ -2,7 +2,9 @@
 
 ### 💻 Software Engineer | Front-end Developer
 
-I'm a Computer Science student from Palestine 🇵🇸, passionate about building clean and responsive web applications.
+Software Engineering and Artificial Intelligence passionate about technology, front-end development, and building modern digital solutions. Skilled in HTML, CSS, JavaScript, and Python, React.js, with experience working on academic and technical projects. Interested in continuous learning, problem-solving, and developing innovative software solutions.
+
+
 
 ---
 
