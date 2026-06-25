@@ -68,7 +68,6 @@ A responsive cryptocurrency tracking application built with React, providing rea
 
 </p>
 
-📧 Email: [ssht414@gmail.com](mailto:ssht414@gmail.com)
 
 ---
 
